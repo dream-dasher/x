@@ -2,6 +2,7 @@
 high -y
 added another line -y
 go mid -y
+after-mid -y
 yet another -y
 hey there -y
 go low -y
