@@ -1,11 +1,9 @@
-howdy -x
-added line -x
-high -y
-added another line -y
-go mid -y
-interrupt -x
+new work -x
+
+{
 go mid -y
 after-mid -y
 yet another -y
 hey there -y
 go low -y
+}
