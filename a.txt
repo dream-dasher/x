@@ -1,7 +1,9 @@
 howdy -x
 added line -x
 added another line -y
+go mid -y
 interrupt -x
+go mid -y
 yet another -y
 hey there -y
 go low -y
