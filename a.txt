@@ -1,5 +1,6 @@
 howdy -x
 added line -x
+high -y
 added another line -y
 go mid -y
 interrupt -x
