@@ -1,5 +1,6 @@
 howdy -x
 added line -x
 added another line -y
+interrupt -x
 yet another -y
 hey there -y
